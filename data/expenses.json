@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Food",
+        "amount": 150.0,
+        "description": "Lunch",
+        "date": "2026-05-16"
+    },
+    {
+        "category": "Transportation",
+        "amount": 50.0,
+        "description": "Jeep Fare",
+        "date": "2026-05-16"
+    }
+]

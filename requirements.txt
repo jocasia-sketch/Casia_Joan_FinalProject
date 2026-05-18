@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This project uses Python 3.x built-in libraries.
